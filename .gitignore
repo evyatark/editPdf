@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 own1.pdf
+own1*.pdf
