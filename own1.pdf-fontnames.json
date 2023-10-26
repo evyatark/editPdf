@@ -1,0 +1,16 @@
+[
+  {
+    "oldfont": [
+      "Arial-BoldMT"
+    ],
+    "newfont": "C:/Windows/Fonts/arialbd.ttf",
+    "info": "28 glyphs, size 18448, serifed, bold, subset font"
+  },
+  {
+    "oldfont": [
+      "ArialMT"
+    ],
+    "newfont": "C:/Windows/Fonts/arial.ttf",
+    "info": "43 glyphs, size 23496, serifed, subset font"
+  }
+]
